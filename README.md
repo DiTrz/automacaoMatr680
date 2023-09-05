@@ -1,6 +1,6 @@
 # Automação de geração de relatório (MATR680 - Totvs Protheus)
 
-Este projeto demonstra uma automação simples do uso da biblioteca PyAutoGUI para interagir com o software SmartClient, realizando uma série de ações pré-definidas.
+Este projeto demonstra uma automação simples do uso da biblioteca PyAutoGUI para interagir com o software SmartClient (Protheus), realizando uma série de ações pré-definidas.
 
 ## Requisitos
 
